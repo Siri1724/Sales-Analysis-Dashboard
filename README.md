@@ -71,17 +71,7 @@ The dashboard was created using a sales dataset for educational and portfolio pu
 Sales-Analysis-Dashboard
 │
 ├── Images
-│   ├── dashboard.png
-│   ├── dashboard1.png
-│   ├── dashboard2.png
-│   ├── dashboard3.png
-│   ├── dashboard4.png
-│   ├── dashboard5.png
-│   ├── dashboard6.png
-│   ├── dashboard7.png
-│   ├── dashboard8.png
-│   ├── dashboard9.png
-│   ├── dashboard10.png
+│   ├── dashboard screenshots
 │   └── demo.gif
 │
 ├── Dataset
