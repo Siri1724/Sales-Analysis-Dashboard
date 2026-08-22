@@ -1,5 +1,9 @@
 # 📊 Sales Analysis Dashboard
 
+<p align="center">
+<img src="images/dashboard1.png" width="100%">
+</p>
+
 ## 📌 Overview
 
 This project presents an interactive Power BI dashboard built to analyze sales performance across different periods, customer segments, countries, and products.
@@ -49,7 +53,9 @@ The dashboard transforms sales data into meaningful business insights through in
 
 ## 📷 Dashboard Preview
 
-Dashboard
+### Dashboard
+
+<img src="images/dashboard3 (2).png" width="100%">
 
 ## 🎥 Dashboard Demo
 
