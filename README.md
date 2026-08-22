@@ -59,6 +59,8 @@ The dashboard transforms sales data into meaningful business insights through in
 
 ## 🎥 Dashboard Demo
 
+<img src="images/demo.sales.gif" width="100%">
+
 ## 📂 Dataset
 
 The dashboard was created using a sales dataset for educational and portfolio purposes.
