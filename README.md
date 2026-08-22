@@ -1,7 +1,7 @@
 # 📊 Sales Analysis Dashboard
 
 <p align="center">
-<img src="images/dashboard1.png" width="100%">
+<img src="images/dashboard.png" width="100%">
 </p>
 
 ## 📌 Overview
@@ -55,7 +55,7 @@ The dashboard transforms sales data into meaningful business insights through in
 
 ### Dashboard
 
-<img src="images/dashboard3 (2).png" width="100%">
+<img src="images/dashboard1.png" width="100%">
 
 ## 🎥 Dashboard Demo
 
